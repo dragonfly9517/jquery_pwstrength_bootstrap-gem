@@ -1,0 +1,3 @@
+[submodule "jquery.pwstrength.bootstrap"]
+	path = jquery.pwstrength.bootstrap
+	url = https://github.com/ablanco/jquery.pwstrength.bootstrap
